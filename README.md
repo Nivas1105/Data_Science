@@ -1,7 +1,7 @@
 This repository is a curated collection of my practical data science projects, showcasing a strong foundation in machine learning, deep learning, and natural language processing (NLP). The projects contained here were completed as part of my Master's in Data Science at the University of Texas at Arlington. They reflect my ability to build end-to-end solutions—from data preprocessing and model development to training, evaluation, and preparing models for deployment.
-Core Competencies Demonstrated
-Deep Learning & Computer Vision: Proficient in designing, training, and evaluating Convolutional Neural Networks (CNNs) using PyTorch, TensorFlow, and Keras. Experienced in image preprocessing with OpenCV.
-Natural Language Processing (NLP): Skilled in leveraging state-of-the-art Transformer models from Hugging Face for tasks like semantic search and text analysis.
+### Core Competencies Demonstrated
+- Deep Learning & Computer Vision: Proficient in designing, training, and evaluating Convolutional Neural Networks (CNNs) using PyTorch, TensorFlow, and Keras. Experienced in image preprocessing with OpenCV.
+- Natural Language Processing (NLP): Skilled in leveraging state-of-the-art Transformer models from Hugging Face for tasks like semantic search and text analysis.
 LLM & Generative AI: Practical experience in building applications with Large Language Models using frameworks like Langchain and implementing RAG (Retrieval-Augmented Generation) architectures.
-Predictive Modeling: Applying a range of classical machine learning algorithms from Scikit-learn to solve classification and regression problems.
-Model Deployment: Knowledge of preparing models for deployment by creating inference pipelines and exposing them through APIs using Flask/FastAPI.
+- Predictive Modeling: Applying a range of classical machine learning algorithms from Scikit-learn to solve classification and regression problems.
+- Model Deployment: Knowledge of preparing models for deployment by creating inference pipelines and exposing them through APIs using Flask/FastAPI.
