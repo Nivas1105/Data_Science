@@ -16,8 +16,8 @@ import warnings
 from sklearn.cluster import KMeans
 warnings.filterwarnings('ignore')
 
-train = pd.read_csv('/Users/priyankam/Documents/GitHub/Data_Science/Regression/Kaggle_Challenge_Lasso_Regression/train.csv')
-test = pd.read_csv('/Users/priyankam/Documents/GitHub/Data_Science/Regression/Kaggle_Challenge_Lasso_Regression/test.csv')  # Assuming test.csv exists for predictions
+train = pd.read_csv('Kaggle_Challenge_Lasso_Regression/train.csv')
+test = pd.read_csv('Kaggle_Challenge_Lasso_Regression/test.csv')  # Assuming test.csv exists for predictions
 
 all_data = pd.concat([train.drop('SalePrice', axis=1), test], axis=0, ignore_index=True)
 
